@@ -1,0 +1,45 @@
+Manufacturer,Model,Vehicle_type,Price,Engine_size,CustomerID
+Acura,Integra,Passenger,21500,1.8,C1
+Acura,TL,Passenger,28400,3.2,C2
+Acura,RL,Passenger,42000,3.5,C3
+Audi,A4,Passenger,23990,1.8,C9
+BMW,323i,Passenger,26990,2.5,C11
+Chevrolet,Cavalier,Passenger,13260,2.2,C4
+Chevrolet,Malibu,Passenger,16535,3.1,C5
+Chrysler,Sebring Coupe,Passenger,19840,2.5,C6
+Chrysler,Concorde,Passenger,22245,2.7,C7
+Chrysler,Cirrus,Passenger,16480,2,C8
+Ford,Escort,Passenger,12070,2,C10
+Ford,Mustang,Passenger,21560,3.8,C12
+Ford,Contour,Passenger,17035,2.5,C13
+Ford,Taurus,Passenger,17885,3,C14
+Honda,Civic,Passenger,12885,1.6,C15
+Honda,Accord,Passenger,15350,2.3,C16
+Honda,CR-V,Car,20550,2,C17
+Hyundai,Accent,Passenger,9699,1.5,C18
+Jaguar,S-Type,Passenger,42800,3,C19
+Jeep,Wrangler,Car,14460,2.5,C20
+Jeep,Cherokee,Car,21620,4,C20
+Lexus,ES300,Passenger,31505,3,C21
+Lexus,GS300,Passenger,37805,3,C22
+Mitsubishi,Galant,Passenger,17357,2.4,C23
+Mitsubishi,Diamante,Passenger,24997,3.5,C24
+Mitsubishi,Montero Sport,Car,22527,3,C26
+Mercedes-B,S-Class,Passenger,69700,4.3,C32
+Nissan,Sentra,Passenger,13499,1.8,C27
+Nissan,Altima,Passenger,20390,2.4,C28
+Nissan,Maxima,Passenger,26249,3,C29
+Porsche,Boxter,Passenger,41430,2.7,C30
+Porsche,Carrera Cabrio,Passenger,74970,3.4,C31
+Subaru,Outback,Passenger,22695,2.5,C33
+Subaru,Forester,Car,20095,2.5,C34
+Toyota,Corolla,Passenger,13108,1.8,C35
+Toyota,Camry,Passenger,17518,2.2,C36
+Toyota,Celica,Passenger,16875,1.8,C37
+Volkswagen,Golf,Passenger,14955,2,C38
+Volkswagen,Passat,Passenger,21582,1.8,C39
+Volkswagen,Beetle,Passenger,15900,2,C40
+Volvo,S40,Passenger,23455,1.9,C41
+Volvo,V40,Passenger,24480,1.9,C42
+Volvo,S70,Passenger,27545,2.4,C43
+Volvo,S80,Passenger,36455,2.9,C44
